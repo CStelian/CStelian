@@ -16,11 +16,6 @@ Hello there, I'm Stelian Cioarec, a guy from Romania, born in 2002, passionate a
 * **Content Creation:** I produce gaming content and have experience in graphic design using **Adobe Photoshop**.
 * **Localization:** I have experience translating and subtitling trailers and clips from English to Romanian.
 
-### 🛠️ Professional Experience
-* **Customer Support:** I worked as a Customer Support Agent at **CGS Romania**.
-* **Data Entry:** I served as a Data Entry Operator at **DataMondial**.
-* **Core Skills:** My background includes professional communication, organization, and web development.
-
 ---
 
 ## 📫 Connect with me
